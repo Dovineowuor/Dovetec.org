@@ -2,9 +2,7 @@
 # 🔥 **Dovetec.org's GitHub Project Template**
 
 <p align="center">
-  <a href="https://github.com/Dovetec.org/project-template/generate">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@Dovetec.org/project-template's">
-  </a>
+  
   <br>
   <a href="https://github.com/Dovetec.org/project-template/issues">
     <img src="https://user-images.githubusercontent.com/70941806/164710839-985891db-5e30-4e50-b4f0-893a9eb6fdf5.png" alt="@Dovetec.org/project-template's issues"/>
